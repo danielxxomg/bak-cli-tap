@@ -1,0 +1,22 @@
+{
+    "version": "1.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/danielxxomg/bak-cli/releases/download/v1.3.0/bak_1.3.0_windows_amd64.zip",
+            "bin": [
+                "bak.exe"
+            ],
+            "hash": "6b9cc09bfc921c6cab39716ac292fafa2cd89524ec8859bfc2d72f754366df46"
+        },
+        "arm64": {
+            "url": "https://github.com/danielxxomg/bak-cli/releases/download/v1.3.0/bak_1.3.0_windows_arm64.zip",
+            "bin": [
+                "bak.exe"
+            ],
+            "hash": "bc1340e155b3414772bfeae5fe9c9cce00596cff6db0ec6cf80f7cf58265e352"
+        }
+    },
+    "homepage": "https://github.com/danielxxomg/bak-cli",
+    "license": "MIT",
+    "description": "Backup and restore your AI coding setup across machines"
+}
