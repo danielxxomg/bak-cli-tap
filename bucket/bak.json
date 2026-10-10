@@ -1,19 +1,19 @@
 {
-    "version": "1.5.0-rc2",
+    "version": "1.5.0-rc3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/danielxxomg/bak-cli/releases/download/v1.5.0-rc2/bak_1.5.0-rc2_windows_amd64.zip",
+            "url": "https://github.com/danielxxomg/bak-cli/releases/download/v1.5.0-rc3/bak_1.5.0-rc3_windows_amd64.zip",
             "bin": [
                 "bak.exe"
             ],
-            "hash": "ad960f4898f96c0117741e47e3b622b3868193f6f22891b979eeb83c2317bebf"
+            "hash": "da4632e40b60fd3d288c91fd99ed9732a264254a8935d8626f9069dce7e3a481"
         },
         "arm64": {
-            "url": "https://github.com/danielxxomg/bak-cli/releases/download/v1.5.0-rc2/bak_1.5.0-rc2_windows_arm64.zip",
+            "url": "https://github.com/danielxxomg/bak-cli/releases/download/v1.5.0-rc3/bak_1.5.0-rc3_windows_arm64.zip",
             "bin": [
                 "bak.exe"
             ],
-            "hash": "5ea626673628e83e0f18b73330d5b6a7937a0d2363c09dc262acce4cf2ff2449"
+            "hash": "6796a18a9ea3344aa0fcd1548262820e3a7b3e21b4773bb2d8917159a0e54cd1"
         }
     },
     "homepage": "https://github.com/danielxxomg/bak-cli",
